@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Dewangan</h1>
-<h3 align="center">A Full Stack Developer specializing in web development, project management, Agile methodology, and quality assurance testing. </h3>
+<h3 align="center">A Full Stack Developer specializing in web development, project management, Agile methodology, and quality assurance testing.Adept at coordinating effectively with development teams, clients, and non-technical stakeholders to execute complex web development projects. </h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="prashant030399" /> </p>
 
