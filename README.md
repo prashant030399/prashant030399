@@ -34,6 +34,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant030399&show_icons=true&locale=en&layout=compact" alt="prashant030399" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prashant030399)](https://git.io/streak-stats)
+
 
 
 
