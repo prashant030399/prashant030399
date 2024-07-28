@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Dewangan</h1>
-<h3 align="center">A Full Stack Developer specializing in web development, project management, Agile methodology, and quality assurance testing.Adept at coordinating effectively with development teams, clients, and non-technical stakeholders to execute complex web development projects. </h3>
-
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="prashant030399" /> </p>
+<h3 align="center">A full stack developer with 6 months of professional experience specializing in web development, project management. Adept at coordinating effectively with development teams, clients, and non-technical stakeholders to execute complex web development projects. </h3>
 
 
 - 🔭 I’m currently working on **portfolio**
@@ -33,6 +31,8 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant030399&show_icons=true&locale=en&layout=compact" alt="prashant030399" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant030399)](https://github.com/prashant030399/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prashant030399)](https://git.io/streak-stats)
 
