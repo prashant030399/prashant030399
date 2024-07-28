@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prashantdewangan789@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1sT4VioFbFqC3H-IiFLOnsxyTX83rzs7T/edit?usp=drive_link&ouid=113574990647287025398&rtpof=true&sd=true](https://docs.google.com/document/d/1sT4VioFbFqC3H-IiFLOnsxyTX83rzs7T/edit?usp=drive_link&ouid=113574990647287025398&rtpof=true&sd=true)
+- 📄 Know about my experiences :https://tinyurl.com/resumeprashant789
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
