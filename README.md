@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Dewangan</h1>
-<h3 align="center">A Full Stack Developer with 6 months of professional experience specializing in web development, project management. Adept at coordinating effectively with development teams, clients, and non-technical stakeholders to execute complex web development projects. a</h3>
+<h3 align="center">A Full Stack Developer specializing in web development, project management. Adept at coordinating effectively with development teams, clients, and non-technical stakeholders to execute complex web development projects. a</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant030399&label=Profile%20views&color=0e75b6&style=flat" alt="prashant030399" /> </p>
 
