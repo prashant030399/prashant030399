@@ -7,6 +7,7 @@
 
 My Experiences :-
 
+
 💻 Full Stack Developer Intern - Seed IT Solutions
 
 • Developed a PHP-based blood management system, utilizing MySQL to manage hundreds of patient records. 
@@ -26,6 +27,7 @@ My Experiences :-
 
 • Improved external data integration with AJAX, increasing API response efficiency by 15%.
 
+
 💻 Full Stack Developer Intern - Glistara Software Solutions 
 
 • Specialized in the MERN stack, focusing on a food delivery app, increasing project efficiency by 40%. 
@@ -33,6 +35,7 @@ My Experiences :-
 • Managed front-end and back-end with MongoDB, Node.js, and Express.js, reducing server response times by 30%. 
 
 • Developed dynamic, responsive interfaces with React.js, improving user engagement by 25% and ensuring high-quality UI/UX design.
+
 
 
 
