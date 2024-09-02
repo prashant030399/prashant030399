@@ -5,6 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant030399" alt="prashant030399" /></a> </p>
 
+
+💻 Full Stack Developer Intern - Seed IT Solutions
+• Developed a PHP-based blood management system, utilizing MySQL to manage hundreds of patient records. 
+• Improved UI with HTML, CSS, and JavaScript, increasing user satisfaction by 25% through enhanced usability. 
+• Optimized MySQL performance with indexing, query optimization, and data normalization, reducing response times by 20%.
+
+💻Front-End developer Intern - Tosscall Services
+• Developed weather app, recipe book, and API applications using React, jQuery, and AJAX, boosted engagement by 30%. 
+• Enhanced front-end skills with React, jQuery, and AJAX, reducing page load times by 20%. 
+• Utilized JSON files for efficient data management, improving processing speed by 25%.
+• Improved external data integration with AJAX, increasing API response efficiency by 15%.
+
+💻 Full Stack Developer Intern - Glistara Software Solutions 
+• Specialized in the MERN stack, focusing on a food delivery app, increasing project efficiency by 40%. 
+• Managed front-end and back-end with MongoDB, Node.js, and Express.js, reducing server response times by 30%. 
+• Developed dynamic, responsive interfaces with React.js, improving user engagement by 25% and ensuring high-quality UI/UX design.
+
+
+
 - 🔭 I’m currently working on **portfolio**
 
 - 🌱 I’m currently learning **Node.js and DSA**
