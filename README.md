@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant030399" alt="prashant030399" /></a> </p>
 
+- 🔭 I’m currently working on **portfolio**
+
+- 🌱 I’m currently learning **Node.js and DSA**
+
+- 💬 Ask me about **JavaScript, React, Nodejs, DSA**
+
+- 📫 How to reach me **prashantdewangan789@gmail.com**
+
+- 📄 Know about my experiences [https://tinyurl.com/resumeprashant789](https://tinyurl.com/resumeprashant789)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 My Experiences :-
 
@@ -40,15 +50,6 @@ My Experiences :-
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- 🔭 I’m currently working on **portfolio**
-
-- 🌱 I’m currently learning **Node.js and DSA**
-
-- 💬 Ask me about **JavaScript, React, Nodejs, DSA**
-
-- 📫 How to reach me **prashantdewangan789@gmail.com**
-
-- 📄 Know about my experiences [https://tinyurl.com/resumeprashant789](https://tinyurl.com/resumeprashant789)
 
 
 <h3 align="left">Connect with me:</h3>
